@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-05T02:48:10.815Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="r5wPX3rmpvFi4865fZ45" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-05T02:54:41.934Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="JMWwd33jJIRMPP_cjosA" version="21.6.5" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="954" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1272" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,10 +8,10 @@
           <mxGeometry x="70" y="60" width="757" height="510" as="geometry" />
         </mxCell>
         <mxCell id="QcBBM-sKMw9uH2ObEvdb-1" value="草稿" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="10" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QcBBM-sKMw9uH2ObEvdb-7" value="剪辑" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="150" y="30" width="530" height="100" as="geometry" />
+          <mxGeometry x="160" y="120" width="530" height="100" as="geometry" />
         </mxCell>
         <mxCell id="QcBBM-sKMw9uH2ObEvdb-10" value="素材资源&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="QcBBM-sKMw9uH2ObEvdb-7">
           <mxGeometry x="10" y="30" width="120" height="60" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="400" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QcBBM-sKMw9uH2ObEvdb-16" value="美容" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="150" y="170" width="530" height="100" as="geometry" />
+          <mxGeometry x="160" y="260" width="530" height="100" as="geometry" />
         </mxCell>
         <mxCell id="QcBBM-sKMw9uH2ObEvdb-17" value="素材资源&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="QcBBM-sKMw9uH2ObEvdb-16">
           <mxGeometry x="10" y="30" width="120" height="60" as="geometry" />
@@ -39,6 +39,15 @@
         </mxCell>
         <mxCell id="QcBBM-sKMw9uH2ObEvdb-20" value="时间轴" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QcBBM-sKMw9uH2ObEvdb-16">
           <mxGeometry x="400" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QcBBM-sKMw9uH2ObEvdb-21" value="监控(日志、CPU)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="560" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QcBBM-sKMw9uH2ObEvdb-22" value="导出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="420" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QcBBM-sKMw9uH2ObEvdb-23" value="配方" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="283.5" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
